@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="grayborder">#E1E1E1</color>
+    <color name="green">#63b270</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="AddAndSubView"><attr format="color" name="textColor"/><attr format="integer" name="initValue"/><attr format="integer" name="maxValue"/><attr format="integer" name="minValue"/><attr format="reference|color" name="textFrameBackground"/><attr format="reference|color" name="addBackground"/><attr format="reference|color" name="subBackground"/><attr format="dimension" name="textFrameWidth"/><attr format="dimension" name="addWidth"/><attr format="dimension" name="subWidth"/><attr format="string" name="addText"/><attr format="string" name="subText"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">CustomAddAndSubtract</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!--     Customize your theme here.
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item> -->
+    </style>
+</resources>
