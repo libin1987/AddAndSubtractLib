@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AddAndSubLib.iml" filepath="$PROJECT_DIR$/AddAndSubLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AddAndSubtractLib.iml" filepath="$PROJECT_DIR$/AddAndSubtractLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customAddAndSubtrac/customAddAndSubtrac.iml" filepath="$PROJECT_DIR$/customAddAndSubtrac/customAddAndSubtrac.iml" />
       <module fileurl="file://$PROJECT_DIR$/customAddAndSubtrac/customAddAndSubtrac.iml" filepath="$PROJECT_DIR$/customAddAndSubtrac/customAddAndSubtrac.iml" />
     </modules>
   </component>
